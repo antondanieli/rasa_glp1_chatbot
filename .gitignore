@@ -1,0 +1,7 @@
+venv/
+models/
+*.pyc
+__pycache__/
+*.tar.gz
+.DS_Store
+
